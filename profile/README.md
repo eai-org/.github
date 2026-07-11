@@ -21,7 +21,7 @@ AI can generate code faster than we can read it. That makes the *engineering*, t
 - Companion code for our articles
 - Project-agnostic, generic agentic tools for common engineering tasks
 
-| Repo | Description |
+| Repository | Description |
 |------|---------|
 | [agent-toolkit](https://github.com/eai-org/agent-toolkit) | A collection of project-agnostic, generic agentic tools for common engineering tasks. Designed to work with any kind of AI agent on any kind of software development project. |
 
