@@ -12,17 +12,18 @@
 
 ## What this is
 
-AI can generate code faster than we can read it. That makes the *engineering* — the judgment about what to build, how to verify it, and when to say no — the scarce skill, not the typing.
+AI can generate code faster than we can read it. That makes the *engineering*, the judgment about what to build, how to verify it, and when to say no, the scarce skill, not the typing.
 
-**Engineering in the Age of AI** is a publication about exactly that: how experienced engineers work *with* AI tools without outsourcing their thinking to them. We write about agentic coding workflows, testing and review practices that survive AI-generated code, monorepo and CI/CD governance, and the habits that separate "it runs" from "it's right."
+**Engineering in the Age of AI** is a space about exactly that: how experienced engineers work *with* AI tools without outsourcing their thinking to them. We write about agentic coding workflows, testing and review practices that survive AI-generated code, monorepo and CI/CD governance, and the habits that separate "it runs" from "it's right."
 
 ## What lives in this org
 
-Companion code for our articles. Every repo here backs a specific piece:
+- Companion code for our articles
+- Project-agnostic, generic agentic tools for common engineering tasks
 
-| Repo | Article |
+| Repo | Description |
 |------|---------|
-| *(coming soon)* | |
+| [agent-toolkit](https://github.com/eai-org/agent-toolkit) | A collection of project-agnostic, generic agentic tools for common engineering tasks. Designed to work with any kind of AI agent on any kind of software development project. |
 
 ## Who we are
 
